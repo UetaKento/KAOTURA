@@ -4,4 +4,4 @@
 - ゲームの目的は、ユーザーが設定した目標スコアに到達することです。
 [![Youtubeサムネ&リンク](https://img.youtube.com/vi/yIjpkclZGx4/0.jpg)](https://www.youtube.com/watch?v=yIjpkclZGx4)
 # 注意
-/Assets/Kenty/Fonts/HachiMaruPop-Regularは.gitignoreで除外しているので、cloneして使いたい場合は適宜追加してください。
+HachiMaruPop-Regularは.gitignoreで除外しているので、cloneして使いたい場合は適宜追加してください。
